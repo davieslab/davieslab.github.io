@@ -1,9 +1,9 @@
 # site settings
-# title: Davies lab
-# subtitle: University of Oxford, Department of Statistics
 email: robert.davies@stats.ox.ac.uk
 description: Statistical and Population Genomics, Department of Statistics, University of Oxford
-baseurl: 
+## title: Davies lab
+## subtitle: University of Oxford, Department of Statistics
+## baseurl: "/forty-jekyll-theme"
 url: https://davieslab.github.io
 
 # homepage tiles
