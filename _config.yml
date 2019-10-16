@@ -3,7 +3,8 @@
 # subtitle: University of Oxford, Department of Statistics
 email: robert.davies@stats.ox.ac.uk
 description: Statistical and Population Genomics, Department of Statistics, University of Oxford
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: 
+url: https://davieslab.github.io
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
