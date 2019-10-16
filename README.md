@@ -71,3 +71,11 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+
+# How to view locally
+
+Uncomment or set `baseurl: "/forty-jekyll-theme"` in _config.yml
+activate conda environment (e.g. source ~/conda_activate or similar) with jekyll installed (e.g. install conda, then install https://anaconda.org/conda-forge/rb-jekyll)
+run `rm -r -f .jekyll-cache && rm -r -f _site && bundle exec jekyll serve`
+navigate to http://localhost:4000/forty-jekyll-theme/
