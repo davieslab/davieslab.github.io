@@ -42,7 +42,7 @@ nav-menu: true
 </header>
 <p>About you</p>
 <ul class="actions">
-<li><a href="www.google.com" class="button">Your website</a></li>
+<li><a href="https://davieslab.github.io" class="button">Your website</a></li>
 </ul>
 </div>
 </div>
