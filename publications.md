@@ -23,7 +23,7 @@ Li R, Bitoun E, Altemose N, Davies RW, Davies B, Myers SR. Nature Communications
 
 <div class="inner"><p>
 <b>Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History.</b>
-Liu S, …, Davies RW (author 15 of 38), …, Xu X. Cell, 2018 [<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31032-8">paper</a>]</p>
+Liu S, Huang S, Chen F, Zhao L, Yuan Y, Francis SS, ..., Jin X, Nielsen R, Xu X. Cell, 2018 [<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31032-8">paper</a>]</p>
 
 <div class="inner"><p>
 <b>Rapid genotype imputation from sequence without reference panels.</b>

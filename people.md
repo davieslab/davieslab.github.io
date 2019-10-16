@@ -31,6 +31,8 @@ nav-menu: true
 </section>
 
 
+
+<!-- for future
 <section>
 <a href="generic.html" class="image">
 <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
@@ -47,3 +49,4 @@ nav-menu: true
 </div>
 </div>
 </section>
+-->
