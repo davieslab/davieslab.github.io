@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join / contact
-image: assets/images/keble_small.png
+image: assets/images/keble_small_H-500pixels.jpg
 nav-menu: true
 special: yes
 ---

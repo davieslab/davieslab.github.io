@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software
-image: assets/images/floating_mortarboard.png
+image: assets/images/floating_mortarboard_H-500pixels.jpg
 nav-menu: true
 special: yes
 ---
