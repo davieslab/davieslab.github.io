@@ -20,7 +20,7 @@ The paper is available <a href="https://www.nature.com/articles/ng.3594">here</a
 
 <h2 id="SEW"><a href="https://github.com/Genomicsplc/SEW">SEW</a></h2>
 
-<p>SEW is a method for reference panel free phasing using long sequencing reads. SEW runs on data from a single sample using sequencing reads in BAM format, as well as a list of positions to phase, and outputs phased genotypes, as well as metrics that are useful for subsequent variant filtration. SEW uses an EM algorithm to jointly fit read probabilities of coming from the two underlying haplotypes, as well as the sequence of the underlying haplotypes.
+<p>SEW is a method for reference panel free phasing using long sequencing reads. SEW runs on data from a single sample using sequencing reads in BAM format, as well as a list of positions to phase, and outputs phased genotypes, as well as metrics that are useful for subsequent variant filtration. SEW uses an EM algorithm, starting from an initial guess of the two underlying haplotypes. SEW then iteratively first calculates probabilities for each sequencing read for coming from each of the two haplotypes, and then updates the sequence of the underlying haplotypes using the sequence of the reads and the probabilities the reads came from the two haplotypes.
 
 <p>The method is available at <a href="https://github.com/Genomicsplc/SEW">https://github.com/Genomicsplc/SEW</a>.
 The paper is available <a href="https://www.nature.com/articles/s41467-019-09637-5">here</a></p>
