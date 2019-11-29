@@ -32,21 +32,22 @@ nav-menu: true
 
 
 
-<!-- for future
 <section>
 <a href="generic.html" class="image">
-<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+<img src="assets/images/luis_Linkedin1_cropped.png" alt="" data-position="center center" />
 </a>
 <div class="content">
 <div class="inner">
 <header class="major">
-<h3>Your name here</h3>
+<h3>Luis Torada Aguilella</h3>
 </header>
-<p>About you</p>
+<p>I am a DPhil student in Robert’s group, co-supervised by Simon Myers at Oxford, as well as Satu Nahkuri and Tony Kam-Thong at Roche. I am currently investigating genetic heterogeneity within Autism Spectrum Disorder. Before coming to Oxford, I did a BSc in Biochemistry at University of Navarra (Spain) and a MSc in Bioinformatics and Systems Biology at Imperial College London (UK). I then joined the Systems Approaches to Biomedical Science Doctoral Training Center (SABS DTC) at the University of Oxford, starting my DPhil in Nov 2019. My current project reflects my major research interest: large-scale dataset modelling with health impact.</p>
 <ul class="actions">
-<li><a href="https://davieslab.github.io" class="button">Your website</a></li>
+<!-- <li><a href="https://davieslab.github.io" class="button">Your website</a></li> -->
 </ul>
 </div>
 </div>
 </section>
--->
+
+
+
