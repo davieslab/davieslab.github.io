@@ -14,6 +14,10 @@ For a complete list please click <a href="https://scholar.google.com/citations?h
 <h3>Selected works</h3>
 
 <div class="inner"><p>
+<b>Using common genetic variation to examine phenotypic expression and risk prediction in 22q11.2 deletion syndrome.</b>
+Davies RW*, Fiksinski AM*, Breetvelt EJ, Williams NM, Hooper SR, Monfeuga T, ..., Scherer SW, International 22q11.2 Brain and Behavior Consortium, Bearden CE, Vorstman JAS. Nature Medicine, 2020 [<a href="https://www.nature.com/articles/s41591-020-1103-1">paper</a>]</p>
+
+<div class="inner"><p>
 <b>Sequencing of human genomes with nanopore technology.</b>
 Bowden R*, Davies RW*, Heger A*, Pagnamenta AT, de Cesare M, Oikkonen LE, ..., Buck D, Simpson MA, Donnelly P. Nature Communications, 2019 [<a href="https://www.nature.com/articles/s41467-019-09637-5">paper</a>]</p>
 
