@@ -51,3 +51,24 @@ nav-menu: true
 
 
 
+
+
+<section>
+<a href="generic.html" class="image">
+<img src="assets/images/marcus.png" alt="" data-position="center center" />
+</a>
+<div class="content">
+<div class="inner">
+<header class="major">
+<h3>Marcus Tutert</h3>
+</header>
+<p>I am a 4th year DPhil student in Robert’s group, co-supervised by Gil McVean at Oxford (currently at Genomics plc). My research project involves the transferability of linkage disequilibrium, and other population genetic statistics, across diverse populations. This work is motivated in the context of GWAS studies to better analyse summary statistics. I have a honours bachelors degree from the University of Toronto in Math and Physics and started my DPhil in Oct 2017. Previous research experience includes  studying the immune system response to cancer at the Ontario Institute for Cancer Research, and investigating anti-malarial drug resistance markers in an African population at Toronto General Hospital. I enjoy learning about how human history shapes global genetic and phenotypic diversity, and the role these forces play in predisposing people to various complex disease risks and evolutionarily important traits. When not working, I can be found running, rowing, or cycling around Oxford.</p>
+<ul class="actions">
+<!-- <li><a href="https://davieslab.github.io" class="button">Your website</a></li> -->
+</ul>
+</div>
+</div>
+</section>
+
+
+
